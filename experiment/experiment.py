@@ -107,7 +107,7 @@ for m in methods:
             
             elif m.__name__ == 'cusum_2s_ps':
                 kargs = {'y':y, 'w':w0, 'delta':delta, 'h':h, 
-                         'rl':rl, 'k':k, 'ka':ka, 
+                         'rl':rl, 'ka':ka, 
                          'alpha_norm':alpha_norm, 'alpha_stat':alpha_stat, 
                          'filt_per':filt_per, 'max_var':max_var, 
                          'cs_max':cs_max}
