@@ -7,7 +7,7 @@ não rotulados: um breve estudo usando dados do NDT**](https://sol.sbc.org.br/in
 ## Como citar
 Utilize a seginte entrada BibTeX:
 
-'''BibTeX
+```BibTeX
 @inproceedings{sbrc,
  author = {Cleiton Almeida and Rosa Leão and Edmundo Silva},
  title = { Inferindo pontos de mudança em séries temporais com dados não rotulados: um breve estudo usando dados do NDT},
@@ -22,7 +22,8 @@ Utilize a seginte entrada BibTeX:
  doi = {10.5753/sbrc.2024.1462},
  url = {https://sol.sbc.org.br/index.php/sbrc/article/view/29828}
 }
-'''
+```
+
 Formatos alternativos estão disponíveis em [https://sol.sbc.org.br/index.php/sbrc/article/view/29828](https://sol.sbc.org.br/index.php/sbrc/article/view/29828).
 
 ## Instruções
